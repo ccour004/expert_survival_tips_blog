@@ -19,9 +19,7 @@
 		font-family: 'pantonRustHeavy';
 		font-size: 5.5em;
         font-weight: normal;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        text-align: center;
         width: 80%;
 	}
 </style>

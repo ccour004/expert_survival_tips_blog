@@ -18,6 +18,7 @@
     });
 </script>
 
+<div class="flex-container">
 {#if post}
     <Header/>
 
@@ -32,6 +33,7 @@
 
     <Footer/>
 {/if}
+</div>
 
 <style>
     img{
@@ -46,8 +48,7 @@
     }
 
     p{
-        padding-left: 31%;
-        padding-right: 31%;
+        box-sizing: border-box; width: 100%; padding: 10px;
         font-size: 1.3em;
     }
 
