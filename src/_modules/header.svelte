@@ -1,0 +1,27 @@
+<h1><a href="/">Expert Survivalist Tips</a></h1>
+
+<style>
+  @font-face {
+    font-family: 'pantonRustHeavy';
+    src: url('WEB/PantonRustHeavy-GrSh.woff2') format('woff2'),
+         url('WEB/PantonRustHeavy-GrSh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  a{color: black;}
+  a:link {text-decoration: none;}
+  a:visited {text-decoration: none;}
+  a:hover {text-decoration: none;}
+  a:active {text-decoration: none;}
+  
+  h1 {
+		font-family: 'pantonRustHeavy';
+		font-size: 6em;
+        font-weight: normal;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+	}
+</style>
