@@ -11,8 +11,8 @@
         post = posts.find((val)=>val.link === $page.params.slug);
         console.log("POST: ",post);
         if(!post.video){
-            console.log("POST FETCH: ",'../__posts/' + post.link + ".svelte");
-            postData = (await import('../__posts/' + post.link + ".svelte")).default;
+            console.log("POST FETCH: ","./blog/" + post.link + ".svelte");
+            postData = (await import("./blog/" + post.link + ".svelte")).default;
             console.log("POST DATA: ",postData);
         }
     });
