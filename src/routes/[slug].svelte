@@ -19,10 +19,10 @@
 
     <h1>{post.name}</h1>
 
-    <img alt={post.alt} src={post.src}/>
-
+    <img alt={post.alt} src={post.src}/><br/>
+  
     {#if !post.video}<p>{@html postData}</p>{/if}
-    {#if post.video} <iframe title={post.name} width="420" height="315" src={post.video}/> {/if}
+    {#if post.video} <iframe title={post.name} width="420" height="315" src={"https://www.youtube.com/embed/"+post.video}/> {/if}
 {/if}
 
 <Footer/>
