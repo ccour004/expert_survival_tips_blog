@@ -10,7 +10,10 @@
         console.log("ONMOUNT!");
         post = posts.find((val)=>val.link === $page.params.slug);
         console.log("POST: ",post);
-        postData = await fetch("/posts/"+post.link+".html").then((result)=>result.text());
+        if(!post.video){
+            postData = await fetch("/posts/"+post.link+".html").then((result)=>result.text());
+            console.log("POST DATA: ",postData);
+        }
     });
 </script>
 
