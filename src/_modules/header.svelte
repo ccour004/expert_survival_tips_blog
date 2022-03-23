@@ -17,10 +17,10 @@
   
   h1 {
 		font-family: 'pantonRustHeavy';
-		font-size: 5.5em;
+		font-size: 8.5vh;
         font-weight: normal;
         text-align: center;
         max-width: 100%;
-        word-wrap: break-word;
+        overflow-wrap: anywhere;
 	}
 </style>
