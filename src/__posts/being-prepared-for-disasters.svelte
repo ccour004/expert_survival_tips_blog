@@ -1,3 +1,7 @@
+
+<script context="module">
+    export const prerender = false;
+</script>
 <p>Emergency preparation is very important and this includes being prepared for disasters. While no one likes to think that something bad will happen, the truth is that sometimes it does and you and your family will be much better off if you are prepared for this before it occurs.</p>
 <p>So how do you go about being prepared for disasters? Here are some ideas:</p>
 <ul>

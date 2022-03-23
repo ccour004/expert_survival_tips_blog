@@ -1,3 +1,6 @@
+<script context="module">
+    export const prerender = false;
+</script>
 <p>Due to global warming and other factors, the changes in our climate have become drastic. We have seen the devastation of properties and cities. Many lives have also been lost due to super typhoons and hurricanes, which caused flooding, and extremely hot weather condition, which caused heat wave. Since we are no longer sure what type of weather will hit our locality, all of us should be prepared for whatever situation certain climate changes and situations would bring.</p>
 <p>Tips for preparing for hurricanes and storms</p>
 <p>Check your house</p>

@@ -1,3 +1,6 @@
+<script context="module">
+    export const prerender = false;
+</script>
 <p>The knife has come to symbolize to the modern men the essence of survival and the ability to provide all that is needed for survival with one simple and lethal tool. A good knife is indeed better than most material things, it can provide protection and the ability to hunt and prepare food, it can also help in building a shelter and creating small objects that are vital for survival.</p>
 <p>A few generations ago, maybe even less than a hundred years ago, men would not leave their house without a proper knife, it was only common sense to take a knife with you wherever you went, you never knew into what situations you will run into, if you will get lost and will need to survive for a couple of days in the wild or if you will be surprised by some enemy or thief and will need to protect yourself.</p>
 <p>For those of us that know knives it is a simple fact that no one knife can have all the features in it, every knife has its advantages and anyone using a knife will have to make his own decision as to what kind of things are important for him to have on his knife. It is not only the extra features of the knife that matter, it is also the way the knife itself is crafted and what it is made off.</p>

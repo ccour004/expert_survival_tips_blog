@@ -11,7 +11,8 @@
         post = posts.find((val)=>val.link === $page.params.slug);
         console.log("POST: ",post);
         if(!post.video){
-            postData = await fetch("/posts/"+post.link+".html").then((result)=>result.text());
+            console.log("POST FETCH: ",'../__posts/' + post.link + ".svelte");
+            postData = (await import('../__posts/' + post.link + ".svelte")).default;
             console.log("POST DATA: ",postData);
         }
     });
@@ -24,11 +25,13 @@
 
     <img alt={post.alt} src={post.src}/><br/>
   
-    {#if !post.video}<p>{@html postData}</p>{/if}
+    {#if postData}<p>
+        <svelte:component this={postData}/>
+    </p>{/if}
     {#if post.video} <iframe title={post.name} width="420" height="315" src={"https://www.youtube.com/embed/"+post.video}/> {/if}
-{/if}
 
-<Footer/>
+    <Footer/>
+{/if}
 
 <style>
     img{

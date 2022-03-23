@@ -1,3 +1,6 @@
+<script context="module">
+    export const prerender = false;
+</script>
 <p>Peace has become an elusive dream for the whole world especially now that the world powers are scampering for world supremacy. Each powerful nation seems to have a secret nuclear arsenal that is on standby in case some other super country is prepared to expose its own nuclear power.</p>
 <p>While people all over the world should be concerned about a third world war that will surely be swift considering the use of the nuclear arsenal of every powerful country, people however have to be prepared for something just brewing around the corner.</p>
 <p>The risk of a civil war erupting in just about any country is an ever present risk that should be looked into not only by world leaders and the church but also by every person concerned about the safety of his community.</p>
