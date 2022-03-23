@@ -1,2 +1,2 @@
 <hr/>
-<footer>© Colin Courtney 2022</footer>
+<footer>© BridgeCourt 2022</footer>
