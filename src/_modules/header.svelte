@@ -17,7 +17,7 @@
   
   h1 {
 		font-family: 'pantonRustHeavy';
-		font-size: 8.5vh;
+		font-size: 5.5vh;
         font-weight: normal;
         text-align: center;
         max-width: 100%;
