@@ -3,8 +3,7 @@
 <style>
   @font-face {
     font-family: 'pantonRustHeavy';
-    src: url('WEB/PantonRustHeavy-GrSh.woff2') format('woff2'),
-         url('WEB/PantonRustHeavy-GrSh.woff') format('woff');
+    src: url('/fonts/PantonRustHeavy-GrSh.eot') format('eot');
     font-weight: normal;
     font-style: normal;
   }
