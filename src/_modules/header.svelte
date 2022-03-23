@@ -20,6 +20,7 @@
 		font-size: 5.5em;
         font-weight: normal;
         text-align: center;
-        width: 80%;
+        max-width: 100%;
+        word-wrap: break-word;
 	}
 </style>

@@ -54,7 +54,12 @@
 
     iframe{
         display: block;
+        max-width: 100%;
         margin-left: auto;
         margin-right: auto;      
+    }
+
+    .flex-container{
+        overflow-x: hidden; 
     }
 </style>
