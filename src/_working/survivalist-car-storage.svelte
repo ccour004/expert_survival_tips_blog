@@ -1,3 +1,10 @@
+/*{
+    "name": "Survivalist Car Storage",
+    "link": "survivalist-car-storage",
+    "alt": "",
+    "published": "2022/03/23 at 5:11 pm",
+    "categories": ["Survival Equipment"]
+},*/
 <script context="module">
     export const prerender = false;
 </script>
