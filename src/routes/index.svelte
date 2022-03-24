@@ -1,15 +1,11 @@
 
 <script>
-    import Footer from '../_modules/footer.svelte';
-    import Header from '../_modules/header.svelte';
-    import posts from './posts.json';
-
+    export let allPosts;
+    //console.log("ALL POSTS: ",allPosts);
 </script>
 
-<Header/>
-
 <div class="card-columns">
-    {#each posts as post}
+    {#each allPosts as post}
         <a href={post.link}>
             <div class="card">
             <img class="card-img-top" src={post.src} alt={post.alt}>
@@ -23,9 +19,7 @@
         </div>
         </a>
     {/each}
-    </div>
-
-<Footer/>
+</div>
 
 <style>
   a{color: black;}
