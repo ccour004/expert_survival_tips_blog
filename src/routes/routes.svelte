@@ -1,8 +1,9 @@
-<script>
+  <script>
     export let name
     export let alt
     export let src
     export let video
+    console.log("SRC",src);
   </script>
   
   <div class="flex-container">

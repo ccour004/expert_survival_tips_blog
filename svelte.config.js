@@ -11,9 +11,7 @@ export default {
 		sveltePreprocess(),
 		mdsvex({
 		  extensions: ['.md'],
-		  layout: {
-			blog: 'src/routes/blog/_layout.svelte'
-		  }
+		  layout: 'src/routes/routes.svelte'
 		})
 	  ]
 };

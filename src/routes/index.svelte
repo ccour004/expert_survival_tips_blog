@@ -1,7 +1,6 @@
-
 <script>
     export let allPosts;
-    //console.log("ALL POSTS: ",allPosts);
+    console.log("ALL POSTS: ",allPosts);
 </script>
 
 <div class="card-columns">
