@@ -5,44 +5,59 @@
 <div class="flex-container">
   {#if posts}
     {#each posts as post}
-        <div class="card ml-2 mt-2 text-light bg-dark">
-            <a href={post.link}>
-            {#if post.src}<img class="card-img-top" src={'../' + post.src} alt={post.alt}>{/if}
-            {#if post.video} <img class="card-img-top" alt={post.alt} src={"https://img.youtube.com/vi/"+post.video+"/0.jpg"}>{/if}
-            <div class="card-body">
-            <h5 class="card-title">{post.name}</h5>
-            <!--<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>-->
-            <p class="card-text"><small class="text-muted">{post.published}</small>
-            </p>
-            </div>
-            </a>
+    <div class="card">
+      <div class="card-body">
+        <i class={"bi-"+post.icon+" custom-post-logo"}/>
+        <div class="custom-post-content">
+          <h5 class="card-title">{post.name}</h5>
+          <p class="card-text">{post.snippet ? 
+            post.snippet : "With supporting text below as a natural lead-in to additional content."}</p>
+          <a href={post.link} class="btn custom-read-more">Read More</a>
         </div>
+      </div>
+    </div>
     {/each}
   {/if}
 </div>
 
 <style>
-  .card-img-top{
-    display: block;
-    max-width: 370px;
-    max-height: 215px;
-    width: auto;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
+  .custom-read-more{
+    background-color: #b3ecff
   }
 
-  .card{
-    max-width: 370px;
-    //max-height: 215px;
+  .card-title{
+    font-family: 'pantonRustHeavy';
+    font-size: 2.5vmax;
   }
+
+  .card-text{
+    font-size: 1.5vmax;
+  }
+
+.card-body{
+  display:flex;
+  margin: 3%;
+}
+
+.custom-post-logo{
+  font-size: 4em; 
+  color: cornflowerblue;
+}
+
+.custom-post-content{
+  padding-left: 2em;
+  width: 100%;
+  overflow-wrap: anywhere;
+ 
+}
 
   .flex-container{
     display: flex;
-    flex-direction: row;
-    flex-flow: row wrap;
+    gap: 20px;
+    flex-direction: column;
     width: 100%;
-    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
     justify-content: center;
   }
 
@@ -54,7 +69,7 @@
     font-style: normal;
   }
 
-  a{color: lightgrey;}
+  a{color: black;}
   a:link {text-decoration: none;}
   a:visited {text-decoration: none;}
   a:hover {text-decoration: none;}

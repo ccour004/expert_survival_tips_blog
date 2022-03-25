@@ -3,7 +3,9 @@ name: Pepper Spray-Why It Is So Effective
 alt: thaumaturgic
 published: 2021/09/06 at 12:15 pm
 src: uploads/2015/08/thaumaturgic-1199278-639x852-370x215.jpg
+icon: alarm
 categories: ["featured", "survival_equipment"]
+snippet: "When it comes to non lethal self defense weapons pepper spray is right up there at the top of popularity for two main reasons: ease of use and effectiveness."
 ---
 When it comes to non lethal self defense weapons pepper spray is right up there at the top of popularity for two main reasons: ease of use and effectiveness.
 ## How It Works

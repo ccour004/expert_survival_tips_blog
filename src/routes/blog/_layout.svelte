@@ -17,12 +17,12 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 70vh;
+      width: 40vmax;
   }
   h1{
       font-family: 'pantonRustHeavy';
       text-align: center;
-      font-size: 8vh;
+      font-size: 4vmax;
   }
 
   p{

@@ -1,19 +1,12 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg custom-navbar">
   <h1><a href="/">Expert Survivalist Tips</a></h1>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav">
-          {#each ["Home","Featured","Videos","Survival Equipment","Survival Preparation","Potential Threats"] as navItem}
-          <li class="nav-item">
-            <a class="nav-link" href={navItem === "Home" ? "/" : '/category/' + navItem.toLowerCase().replace(" ","_")}>{navItem}</a>
-          </li>
-          {/each}
-      </ul>
+  <div class="navbarText">
+    {#each ["Home","Featured","Videos","Survival Equipment","Survival Preparation","Potential Threats"] as navItem}
+      {#if navItem !== "Home"}|{/if}
+      <a href={navItem === "Home" ? "/" : '/category/' + navItem.toLowerCase().replace(" ","_")}>{navItem}&nbsp;</a>
+    {/each}
   </div>
 </nav>
-
 <style>
   @font-face {
     font-family: 'pantonRustHeavy';
@@ -21,18 +14,26 @@
          url('/fonts/PantonRustHeavy-GrSh.woff') format('woff');
   }
 
-  a{color: lightgrey;}
+  a{color: black;}
   a:link {text-decoration: none;}
   a:visited {text-decoration: none;}
   a:hover {text-decoration: none;}
   a:active {text-decoration: none;}
 
-  .navbar-collapse{
-    padding-left: 20px;
+  .custom-navbar{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #cccccc;
+  }
+
+  .navbarText{
+    text-align: center;
+    justify-content: center;
   }
 
   h1 {
-    color: lightgrey;
+    color: black;
     font-family: 'pantonRustHeavy';
     font-size: 5.5vh;
     font-weight: normal;

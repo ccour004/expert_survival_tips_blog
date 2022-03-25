@@ -3,7 +3,9 @@ name: Preparing For A Natural Disaster, Terrorists Attack Or Pandemic
 alt: survival courses
 published: 2021/10/01 at 12:17 pm
 src: uploads/2015/08/survival-courses-slider-1-370x215.jpg
+icon: globe
 categories: ["survival_preparation"]
+snippet: "How prepared are you for a disaster?"
 ---
 How prepared are you? Will you be like thousands of others and wait until the last minute to stock up on food and water? Do you even have a working flashlight in your home or auto? As we have clearly seen, waiting until it is too late does not work. Grocery stores run out, gas stations run dry and we certainly can't depend on the government to help.
 

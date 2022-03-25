@@ -3,7 +3,9 @@ name: Preparing For And Surviving A Civil War
 alt: sniper
 published: 2021/07/06 at 12:03 pm
 src: uploads/2015/08/sniper-1316485-640x480-370x215.jpg
+icon: building
 categories: ["featured","potential_threats"]
+snippet: "Peace has become an elusive dream for the whole world especially now that the world powers are scampering for world supremacy."
 ---
 Peace has become an elusive dream for the whole world especially now that the world powers are scampering for world supremacy. Each powerful nation seems to have a secret nuclear arsenal that is on standby in case some other super country is prepared to expose its own nuclear power.
 
