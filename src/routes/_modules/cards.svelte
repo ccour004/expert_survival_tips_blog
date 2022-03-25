@@ -55,6 +55,7 @@
     display: flex;
     gap: 20px;
     flex-direction: column;
+    background-color: #cccccc;
     width: 100%;
     padding-left: 10%;
     padding-right: 10%;
