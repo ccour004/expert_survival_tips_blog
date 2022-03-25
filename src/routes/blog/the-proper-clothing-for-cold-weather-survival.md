@@ -3,7 +3,7 @@ name: The Proper Clothing For Cold Weather Survival
 alt: mountains
 published: 2021/11/06 at 12:21 pm
 src: uploads/2015/08/IMG_1334-370x215.jpg
-categories: ["Survival Equipment"]
+categories: ["survival_equipment"]
 ---
 Maybe you don't need to learn about survival clothing. Maybe you always hike with a spare jacket. Perhaps you never go out into the wilderness overnight, but just for day hikes. Or you bring lots of warm clothing when you do go backpacking.
 

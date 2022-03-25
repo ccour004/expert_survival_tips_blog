@@ -3,7 +3,7 @@ name: Mentally Preparing for Survival
 alt: thinking brain
 published: 2021/11/14 at 2:26 am
 src: uploads/2015/08/043f63a72aeebc90f07b2424_1920-370x215.jpg
-categories: ["Survival Preparation"]
+categories: ["survival_preparation"]
 ---
 A survival kit should be carried by anyone who goes deep into the wilderness. What should be in it? Matches, a blade of some sort, and first aid supplies are among the usual recommendations. When you read the true stories of survival, though, you start to see that it is what's in a persons head that often determines if they survive or not. What, then, should be in this mental survival kit?
 

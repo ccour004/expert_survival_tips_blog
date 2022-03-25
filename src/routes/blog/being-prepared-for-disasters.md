@@ -3,7 +3,7 @@ name: Being Prepared for Disasters
 alt: family survival food slider 2
 published: 2021/06/06 at 11:50 am
 src: uploads/2015/08/survival-food-slider2-370x215.jpg
-categories: ["Survival Preparation"]
+categories: ["survival_preparation"]
 ---
 Emergency preparation is very important and this includes being prepared for disasters. While no one likes to think that something bad will happen, the truth is that sometimes it does and you and your family will be much better off if you are prepared for this before it occurs.
 

@@ -3,7 +3,7 @@ name: Survival Knife Tips
 alt: family survival slider
 published: 2021/04/06 at 9:47 am
 src: uploads/2015/08/fam-survival-slider1-370x215.jpg
-categories: ["Survival Equipment"]
+categories: ["survival_equipment"]
 ---
 The knife has come to symbolize to the modern men the essence of survival and the ability to provide all that is needed for survival with one simple and lethal tool. A good knife is indeed better than most material things, it can provide protection and the ability to hunt and prepare food, it can also help in building a shelter and creating small objects that are vital for survival.
 

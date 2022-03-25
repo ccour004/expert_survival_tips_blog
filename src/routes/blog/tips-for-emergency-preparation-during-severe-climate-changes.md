@@ -3,7 +3,7 @@ name: Tips For Emergency Preparation During Severe Climate Changes
 alt: family survival food slider 1
 published: 2021/08/06 at 12:04 pm
 src: uploads/2015/08/survival-food-slider1-370x215.jpg
-categories: ["Featured","Potential Threats"]
+categories: ["featured","potential_threats"]
 ---
 Due to global warming and other factors, the changes in our climate have become drastic. We have seen the devastation of properties and cities. Many lives have also been lost due to super typhoons and hurricanes, which caused flooding, and extremely hot weather condition, which caused heat wave. Since we are no longer sure what type of weather will hit our locality, all of us should be prepared for whatever situation certain climate changes and situations would bring.
 
