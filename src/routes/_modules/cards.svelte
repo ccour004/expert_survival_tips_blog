@@ -36,6 +36,11 @@
   color: white;
 }
 
+.card{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .card-title{
   font-family: 'alkes';
   font-size: 2.5vmax;
