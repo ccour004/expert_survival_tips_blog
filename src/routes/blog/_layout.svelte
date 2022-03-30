@@ -25,10 +25,15 @@
       padding-bottom: 15px
       /*width: 40vmax;*/
   }
+
   h1{
       font-family: 'alkes';
       text-align: center;
       font-size: 4vmax;
+  }
+
+  a{
+    color: blue;
   }
 
   p{
