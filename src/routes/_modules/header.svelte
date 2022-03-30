@@ -1,7 +1,11 @@
 <nav class="navbar navbar-expand-lg custom-navbar">
-  <h1><a href="/">Expert Survivalist Tips</a></h1>
+  <h1>
+    <a class="headerLink" href="/">
+    <img class="custom-svg" alt={"bow"} src={`../../../static/icons/bow.svg?url`}/>
+    <div>Expert Survivalist Tips</div></a>
+  </h1>
   <div class="navbarText">
-    {#each ["Home","Featured","Videos","Survival Equipment","Survival Preparation","Potential Threats"] as navItem}
+    {#each ["Home","Food","Finance","Survival Equipment","Survival Preparation"] as navItem}
       {#if navItem !== "Home"}|{/if}
       <a href={navItem === "Home" ? "/" : '/category/' + navItem.toLowerCase().replace(" ","_")}>{navItem}&nbsp;</a>
     {/each}
@@ -9,9 +13,18 @@
 </nav>
 <style>
   @font-face {
-    font-family: 'pantonRustHeavy';
-    src: url('/fonts/PantonRustHeavy-GrSh.woff2') format('woff2'),
-         url('/fonts/PantonRustHeavy-GrSh.woff') format('woff');
+    font-family: 'alkes';
+    src: url('/fonts/AlkesDemo-Semibold.woff2') format('woff2'),
+         url('/fonts/AlkesDemo-Semibold.woff') format('woff');
+  }
+
+  .custom-svg{
+    width: 64px;
+    height: 64px;
+  }
+
+  .headerLink{
+    font-size: 0.7em;
   }
 
   a{color: black;}
@@ -34,7 +47,8 @@
 
   h1 {
     color: black;
-    font-family: 'pantonRustHeavy';
+    display: flex;
+    font-family: 'alkes';
     font-size: 5.5vh;
     font-weight: normal;
     text-align: center;

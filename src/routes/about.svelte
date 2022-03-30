@@ -2,14 +2,13 @@
 
 <style>
   @font-face {
-    font-family: 'pantonRustHeavy';
-    src: url('/fonts/PantonRustHeavy-GrSh.eot') format('eot');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'alkes';
+    src: url('/fonts/AlkesDemo-Semibold.woff2') format('woff2'),
+         url('/fonts/AlkesDemo-Semibold.woff') format('woff');
   }
   
   h1 {
-		font-family: 'pantonRustHeavy';
+		font-family: 'alkes';
 		font-size: 6em;
         font-weight: normal;
 	}
