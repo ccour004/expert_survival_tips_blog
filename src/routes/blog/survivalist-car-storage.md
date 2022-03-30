@@ -23,11 +23,11 @@ One overlooked item in most cars is actually a trash can. Adding a system to tak
 
 <AmazonComponent title="Car Trash Can with Lid and Storage Pockets" company="HOTOR" href="https://amzn.to/386ZRHH" src="https://m.media-amazon.com/images/I/81amlUGJ+3L._AC_SL1500_.jpg"/>
 
-My FAVORITE place to organize is the trunk. We have several of these and they are ALWAYS in our trunk. You can leave them empty and keep your groceries safe on the way home from the store. We have one stocked at al times with our favorite supplies.  
+My FAVORITE place to organize is the trunk. We have several of these and they are ALWAYS in our trunk. You can leave them empty and keep your groceries safe on the way home from the store. We have one stocked at all times with our favorite supplies.
 
 <AmazonComponent title="Waterproof Trunk Organizer" company="Farasla" href="https://amzn.to/3iM1M6y" src="https://m.media-amazon.com/images/I/717pXvAGQ7L._AC_SL1500_.jpg"/>
 
-And lastly\.\.\.what are we keeping stocked in our car??? Here’s our extensive list. We have several kids that get car sickness easily, we have many young kids, and we live in a moderate climate so all that affects what we store. Make adjustments for your area and lifestyle.
+And lastly\.\.\.what are we keeping stocked in our car??? Here’s our extensive list. We have several kids that get car sickness easily, we have many young kids, and we live in a moderate climate so all that changes what we store. Make adjustments for your area and lifestyle.
 
 *   <a href="https://amzn.to/3DoaiSR" target="_blank">Mints</a>
 *   <a href="https://amzn.to/3wK4bXO" target="_blank">Ginger chews</a>
@@ -61,6 +61,6 @@ And lastly\.\.\.what are we keeping stocked in our car??? Here’s our extensive
 *   Lip balm
 *   Body wipes
 *   <a href="https://amzn.to/3iPFAbX" target="_blank">The BEST roadside emergency kit</a>
-*   <a href="https://amzn.to/3IKKcdL" target="_blank">The BEST first aid kit</a>
+*   <a href="https://amzn.to/3IKKcdL" target="_blank">The BEST First aid kit</a>
 *   <a href="https://amzn.to/3wMVufj" target="_blank">Rain coats</a>
 *   Garbage bags
