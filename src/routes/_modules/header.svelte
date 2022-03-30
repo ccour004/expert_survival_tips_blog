@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg custom-navbar">
   <h1>
     <a class="headerLink" href="/">
-    <img class="custom-svg" alt={"bow"} src={`../../../static/icons/bow.svg?url`}/>
+    <img class="custom-svg" alt={"bow"} src={`/icons/bow.svg?url`}/>
     <div>Expert Survivalist Tips</div></a>
   </h1>
   <div class="navbarText">

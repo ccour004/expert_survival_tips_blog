@@ -1,5 +1,6 @@
 <script>
     export let posts;
+    export let category;
 </script>
  
 <div class="flex-container">
@@ -7,7 +8,7 @@
     {#each posts as post}
     <div class="card">
       <div class="card-body">
-        <img alt={post.alt} class="custom-svg" src={`../../../static/icons/${post.icon}.svg?url`}/>
+        <img alt={post.alt} class="custom-svg" src={`/icons/${post.icon}.svg?url`}/>
         <div class="custom-post-content">
           <h5 class="card-title">{post.name}</h5>
           <p class="card-text">{post.snippet ? 
@@ -19,7 +20,7 @@
     {/each}
   {/if}
   {#if posts.length === 0}
-    <div class="no-posts">No posts here.</div>
+    <div class="no-posts">No posts for category: {category}</div>
   {/if}
 </div>
 

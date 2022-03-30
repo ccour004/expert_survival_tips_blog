@@ -7,7 +7,7 @@
 </script>
   
 <div class="flex-container">
-  {#if icon} <img alt={alt} class="custom-svg" src={`../../../static/icons/${icon}.svg?url`}/> {/if}
+  {#if icon} <img alt={alt} class="custom-svg" src={`/icons/${icon}.svg?url`}/> {/if}
   {#if name} <h1>{name}</h1> {/if}
   <p><slot/></p>
   {#if video} <iframe title={name} width="420" height="315" src={"https://www.youtube.com/embed/"+video}/> {/if}
