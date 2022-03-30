@@ -30,6 +30,7 @@
       font-family: 'alkes';
       text-align: center;
       font-size: 4vmax;
+      font-weight: bold;
   }
 
   a{
@@ -37,18 +38,15 @@
   }
 
   p{
+      font-family: 'alkes';
       box-sizing: border-box; width: 100%; padding: 10px;
-      font-size: 1.3em;
-  }
-
-  iframe{
-      display: block;
-      max-width: 100%;
-      margin-left: auto;
-      margin-right: auto;      
+      font-size: 2vmax;
+      font-weight: lighter;
   }
 
   .flex-container{
+      margin-left: 7vw;
+      margin-right: 7vw;
       overflow-x: hidden; 
   }
 </style>
