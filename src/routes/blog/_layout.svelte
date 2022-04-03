@@ -30,14 +30,12 @@
       font-family: 'CooperHewitt-Medium';
       text-align: center;
       font-size: 4vmax;
-      font-weight: bolder;
   }
 
   p{
       font-family: 'CooperHewitt-Light';
       box-sizing: border-box; width: 100%; padding: 10px;
       font-size: 2vmax;
-      font-weight: lighter;
   }
 
   .flex-container{
