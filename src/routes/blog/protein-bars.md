@@ -1,7 +1,7 @@
 ---
 name: A Prepper's Guide To Protein Bars
 icon: food
-categories: ["food"]
+categories: ["survival_equipment","food"]
 snippet: "When it comes to these quick and nutritious snacks, there are many differnt types to choose from."
 ---
 <script>
