@@ -12,12 +12,6 @@
   </div>
 </nav>
 <style>
-  @font-face {
-    font-family: 'alkes';
-    src: url('/fonts/AlkesDemo-Semibold.woff2') format('woff2'),
-         url('/fonts/AlkesDemo-Semibold.woff') format('woff');
-  }
-
   .custom-svg{
     width: 64px;
     height: 64px;
@@ -43,12 +37,13 @@
   .navbarText{
     text-align: center;
     justify-content: center;
+    font-family: 'CooperHewitt-Medium';
   }
 
   h1 {
     color: black;
     display: flex;
-    font-family: 'alkes';
+    font-family: 'CooperHewitt-Medium';
     font-size: 5.5vh;
     font-weight: normal;
     text-align: center;

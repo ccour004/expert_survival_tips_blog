@@ -20,10 +20,14 @@
 </a>
 
 <style>
-a:link {text-decoration: none;}
-a:visited {text-decoration: none;}
-a:hover {text-decoration: none;}
-a:active {text-decoration: none;}
+a:link {text-decoration: none; color:#004d66;}
+a:visited {text-decoration: none; color:#004d66;}
+a:hover {text-decoration: none; color:#004d66;}
+a:active {text-decoration: none; color:#004d66;}
+
+h5{
+  padding-top: 10px;
+}
 
 .custom-svg{
   margin-left: auto;
@@ -40,6 +44,7 @@ a:active {text-decoration: none;}
   box-shadow: 3px 3px#888888;
   border: 10px;
   margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .card-body{
@@ -58,17 +63,19 @@ a:active {text-decoration: none;}
 }
 
 .card-text{
+  font-family: 'CooperHewitt-Medium';
   font-size: 2vmax;
   margin-bottom: 5px;
 }
 
 .card-title{
-  font-family: 'alkes';
+  font-family: 'CooperHewitt-Medium';
   font-size: 2.5vmax;
   margin-top: 5px;
 }
 
 .custom-read-more{
+  padding-top: 15px;
   font-size: 2vmax;
   background-color: #004d66;
   width: 100%;

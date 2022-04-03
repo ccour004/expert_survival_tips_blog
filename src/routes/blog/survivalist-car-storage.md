@@ -13,25 +13,25 @@ Now it does not matter what type of car you drive. Every car has some lost space
 
 <AmazonComponent title="Car Backseat Organizer" company="Reserwa" href="https://amzn.to/3qMQWSn" src="https://m.media-amazon.com/images/I/710IIu6OFpL._AC_SL1500_.jpg"/>
 
-Another great space to utilize is the space between seats! Totally wasted space! This is what we use to add so much storage to that area. 
+Another great space to utilize is the space between seats! Totally wasted space! This is what I use to add so much storage to that area. 
 
 <AmazonComponent title="Car Net Organizer" company="DFDM National" href="https://amzn.to/3wPtVlq" src="https://m.media-amazon.com/images/I/917lz6BqxYL._AC_SL1500_.jpg"/>
 
-We have this between the drivers and passengers seats so we only put items we need to access quickly here.
+I have this between the drivers and passengers seats so I only put items I need to access quickly here.
 
-One overlooked item in most cars is actually a trash can. Adding a system to take care of trash quickly is essential to keeping your car clean and organized. You don’t want to put all this work into keeping your car stocked with supplies and organized only to have it become a cluttered mess. We keep our van clean and organized by always throwing trash out immediately. TRUST ME. This is a game changer.
+One overlooked item in most cars is actually a trash can. Adding a system to take care of trash quickly is essential to keeping your car clean and organized. You don’t want to put all this work into keeping your car stocked with supplies and organized only to have it become a cluttered mess. I keep our van clean and organized by always throwing trash out immediately. TRUST ME. This is a game changer.
 
 <AmazonComponent title="Car Trash Can with Lid and Storage Pockets" company="HOTOR" href="https://amzn.to/386ZRHH" src="https://m.media-amazon.com/images/I/81amlUGJ+3L._AC_SL1500_.jpg"/>
 
-My FAVORITE place to organize is the trunk. We have several of these and they are ALWAYS in our trunk. You can leave them empty and keep your groceries safe on the way home from the store. We have one stocked at all times with our favorite supplies.
+My FAVORITE place to organize is the trunk. I have several of these and they are ALWAYS in our trunk. You can leave them empty and keep your groceries safe on the way home from the store. I have one stocked at all times with our favorite supplies.
 
 <AmazonComponent title="Waterproof Trunk Organizer" company="Farasla" href="https://amzn.to/3iM1M6y" src="https://m.media-amazon.com/images/I/717pXvAGQ7L._AC_SL1500_.jpg"/>
 
-And lastly\.\.\.what are we keeping stocked in our car??? Here’s our extensive list. We have several kids that get car sickness easily, we have many young kids, and we live in a moderate climate so all that changes what we store. Make adjustments for your area and lifestyle.
+And lastly\.\.\.what am i keeping stocked in our car??? Here’s our extensive list. I have several kids that get car sickness easily, I have many young kids, and I live in a moderate climate so all that changes what I store. Make adjustments for your area and lifestyle.
 
 *   <a href="https://amzn.to/3DoaiSR" target="_blank">Mints</a>
 *   <a href="https://amzn.to/3wK4bXO" target="_blank">Ginger chews</a>
-*   <a href="https://amzn.to/3iItDoq" target="_blank">Snacks and breakfast bars</a> (make sure you dont keep anything with items like chocolate that will melt in your car, heres what we keep in our car)
+*   <a href="https://amzn.to/3iItDoq" target="_blank">Snacks and breakfast bars</a> (make sure you don't keep anything with items like chocolate that will melt in your car)
 *   Paper towels
 *   Beach towels
 *   Alcohol wipes
@@ -61,6 +61,6 @@ And lastly\.\.\.what are we keeping stocked in our car??? Here’s our extensive
 *   Lip balm
 *   Body wipes
 *   <a href="https://amzn.to/3iPFAbX" target="_blank">The BEST roadside emergency kit</a>
-*   <a href="https://amzn.to/3IKKcdL" target="_blank">The BEST First aid kit</a>
+*   <a href="https://amzn.to/3IKKcdL" target="_blank">The BEST first aid kit</a>
 *   <a href="https://amzn.to/3wMVufj" target="_blank">Rain coats</a>
 *   Garbage bags

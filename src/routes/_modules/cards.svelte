@@ -25,6 +25,7 @@
 </div>
 
 <style>
+
 .custom-svg{
   width: 64px;
   height: 64px;
@@ -32,6 +33,7 @@
 }
 
 .custom-read-more{
+  padding-top: 10px;
   background-color: #004d66;
   color: white;
 }
@@ -42,12 +44,12 @@
 }
 
 .card-title{
-  font-family: 'alkes';
+  font-family: 'CooperHewitt-Medium';
   font-size: 2.5vmax;
 }
 
 .no-posts{
-  font-family: 'alkes';
+  font-family: 'CooperHewitt-Medium';
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 3.5vmax;
@@ -55,6 +57,7 @@
 }
 
 .card-text{
+  font-family: 'CooperHewitt-Light';
   font-size: 1.5vmax;
 }
 
@@ -79,12 +82,6 @@
   padding-right: 10%;
   justify-content: center;
 }
-
-@font-face {
-    font-family: 'alkes';
-    src: url('/fonts/AlkesDemo-Semibold.woff2') format('woff2'),
-         url('/fonts/AlkesDemo-Semibold.woff') format('woff');
-  }
 
 a{color: black;}
 a:link {text-decoration: none;}

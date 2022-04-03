@@ -13,6 +13,7 @@ export default {
 		sveltePreprocess(),
 		mdsvex({
 		  extensions: ['.md'],
+		  highlighter: false,
 		  layout: 'src/routes/blog/_layout.svelte'
 		})
 	  ]

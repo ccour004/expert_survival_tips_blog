@@ -1,7 +1,6 @@
 <script>
   export let name
   export let alt
-  export let src
   export let video
   export let icon
 </script>
@@ -14,6 +13,7 @@
 </div>
 
 <style>
+
   img{
       display: block;
       margin-left: auto;
@@ -27,18 +27,14 @@
   }
 
   h1{
-      font-family: 'alkes';
+      font-family: 'CooperHewitt-Medium';
       text-align: center;
       font-size: 4vmax;
-      font-weight: bold;
-  }
-
-  a{
-    color: blue;
+      font-weight: bolder;
   }
 
   p{
-      font-family: 'alkes';
+      font-family: 'CooperHewitt-Light';
       box-sizing: border-box; width: 100%; padding: 10px;
       font-size: 2vmax;
       font-weight: lighter;

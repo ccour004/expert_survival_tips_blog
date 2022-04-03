@@ -2,3 +2,66 @@ html,body{
     color: black;
     background-color: #cccccc;
 }
+
+a{
+    color: #004d66;
+    font-family: 'CooperHewitt-Medium';
+}
+a:link {
+    color: #004d66;
+    font-family: 'CooperHewitt-Medium';
+}
+a:visited {
+    color: #004d66;
+    font-family: 'CooperHewitt-Medium';
+}
+a:hover {
+    color: #004d66;
+    font-family: 'CooperHewitt-Medium';
+}
+a:active {
+    color: #004d66;
+    font-family: 'CooperHewitt-Medium';
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Heavy';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Heavy.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Light';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Medium';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Thin';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-ThinItalic';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-ThinItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Bold';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Semibold';
+    font-style: normal;
+    src: url(fonts/CooperHewitt-WebFonts-public/CooperHewitt-Semibold.woff) format('woff');
+}
