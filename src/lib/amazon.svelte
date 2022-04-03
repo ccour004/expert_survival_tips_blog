@@ -3,6 +3,14 @@
     export let src;
     export let title;
     export let company;
+    /*
+      Workflow for putting together an Amazon product listing
+      =======================================================
+      * title: name for the product
+      * company: company that produces the product
+      * href: text-only link for Amazon listing
+      * src: Ctrl-U, Ctrl-F - search for 'hires' image w/ something like m.media-amazon.com/images
+    */
 </script>
 
 <a href={href}>

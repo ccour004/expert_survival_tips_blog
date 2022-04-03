@@ -39,8 +39,9 @@
 }
 
 .card{
-  margin-left: auto;
-  margin-right: auto;
+  /*max-width: 67.5%;*/
+  margin-left: /*auto*/2%;
+  margin-right: /*auto*/2%;
 }
 
 .card-title{

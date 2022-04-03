@@ -7,6 +7,7 @@ snippet: "How to prepare your vehicle for everything you might need on the road.
 <script>
   import AmazonComponent from '$lib/amazon.svelte'
 </script>
+
 One of the BEST and easiest ways to be prepared for ANYTHING ranging from minor everyday inconveniences to disaster scenarios, is to properly prepare\.\.\. YOUR CAR!
 
 No matter what type of vehicle you drive, there will be some lost spaces that you can utilize for your prep. The absolute best space for storing supplies is actually behind the seats! I have placed one of these organizers behind every single seat in my van for years, and I could not be happier with them. They are sturdy, clean up well, and have saved the day more than once (since I've stocked them up full of essentials like mints for dealing with car sick children):
