@@ -2,7 +2,7 @@
 name: A Prepper's Guide To Protein Bars
 icon: food
 categories: ["survival_equipment","food"]
-snippet: "When it comes to these quick and nutritious snacks, there are many differnt types to choose from."
+snippet: "When it comes to these quick and nutritious snacks, there are many different types to choose from."
 ---
 <script>
   import AmazonComponent from '$lib/amazon.svelte'

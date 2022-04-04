@@ -39,9 +39,9 @@
 }
 
 .card{
-  /*max-width: 67.5%;*/
-  margin-left: /*auto*/2%;
-  margin-right: /*auto*/2%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
 }
 
 .card-title{
@@ -75,12 +75,13 @@
 .flex-container{
   display: flex;
   gap: 20px;
-  flex-direction: column;
+  flex-flow: column wrap;
   background-color: #cccccc;
   width: 100%;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
   justify-content: center;
+  margin: auto;
 }
 
 a{color: black;}
