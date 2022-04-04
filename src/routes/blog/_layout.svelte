@@ -35,7 +35,7 @@
   p{
       font-family: 'CooperHewitt-Light';
       box-sizing: border-box; width: 100%; padding: 10px;
-      font-size: 2vmax;
+      font-size: 2.5vmax;
   }
 
   .flex-container{

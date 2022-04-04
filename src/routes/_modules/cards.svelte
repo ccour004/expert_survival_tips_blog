@@ -59,7 +59,7 @@
 
 .card-text{
   font-family: 'CooperHewitt-Light';
-  font-size: 1.5vmax;
+  font-size: 2vmax;
 }
 
 .card-body{
@@ -70,7 +70,6 @@
 .custom-post-content{
   padding-left: 2em;
   width: 100%;
-  overflow-wrap: anywhere;
 }
 
 .flex-container{
