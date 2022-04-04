@@ -37,6 +37,7 @@
   .navbarText{
     text-align: center;
     justify-content: center;
+    font-size: 2.5vh;
     font-family: 'CooperHewitt-Medium';
   }
 
@@ -44,7 +45,7 @@
     color: black;
     display: flex;
     font-family: 'CooperHewitt-Heavy';
-    font-size: 5.5vh;
+    font-size: 8.5vh;
     text-align: center;
     max-width: 100%;
     overflow-wrap: anywhere;
