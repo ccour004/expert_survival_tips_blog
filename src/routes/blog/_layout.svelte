@@ -41,6 +41,10 @@
   .flex-container{
       margin-left: 7vw;
       margin-right: 7vw;
+      padding-left: 2vw;
+      padding-right: 2vw;
+      /*background-color: rgb(252, 252, 252);
+      border-radius: 8px;*/
       overflow-x: hidden; 
   }
 </style>

@@ -1,8 +1,8 @@
 ---
-name: Bone Broth
+name: The Most Nutritious Bone Broth
 icon: food
 categories: ["food"]
-snippet: "How to make a bone broth using food scraps."
+snippet: "You won't believe how easy this is!"
 ---
 <script>
   import TipsComponent from '$lib/tips.svelte'

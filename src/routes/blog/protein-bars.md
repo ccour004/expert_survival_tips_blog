@@ -1,8 +1,8 @@
 ---
-name: A Prepper's Guide To Protein Bars
+name: The 7 best protein bars you'll need in an emergency
 icon: food
 categories: ["survival_equipment","food"]
-snippet: "When it comes to these quick and nutritious snacks, there are many different types to choose from."
+snippet: "You won't regret stocking up on these."
 ---
 <script>
   import AmazonComponent from '$lib/amazon.svelte'

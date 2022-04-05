@@ -2,7 +2,7 @@
 name: Start Your Side-Hustle With Free Cryptocurrency
 icon: digital-banking
 categories: ["finance"]
-snippet: "Cryptocurrency provides a way to save and invest money that doesn't rely on banks or the government."
+snippet: "Start investing today."
 ---
 <script>
   import CoinbaseComponent from '$lib/coinbase.svelte'

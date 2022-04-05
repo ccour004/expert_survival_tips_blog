@@ -41,7 +41,7 @@
 .card{
   margin-left: auto;
   margin-right: auto;
-  max-width: 600px;
+  width: 40vmax;
 }
 
 .card-title{
@@ -65,6 +65,7 @@
 .card-body{
   display:flex;
   margin: 3%;
+  /*min-width: 600px;*/
 }
 
 .custom-post-content{

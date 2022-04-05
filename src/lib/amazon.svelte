@@ -49,7 +49,7 @@ h5{
   margin-left: auto;
   margin-right: auto;
   width: 30vmax;
-  box-shadow: 3px 3px#888888;
+  box-shadow: 1px 1px 3px 3px#888888;
   border: 10px;
   margin-bottom: 10px;
   margin-bottom: 20px;
